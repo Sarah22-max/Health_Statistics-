@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1779290853175,"sparkVersion":"3.5.3","uid":"VectorAssembler_ff1290de1a83","paramMap":{"outputCol":"features","inputCols":["Year","Disease_Vec","County_Vec","Sex_Vec","Population"]},"defaultParamMap":{"outputCol":"VectorAssembler_ff1290de1a83__output","handleInvalid":"error"}}

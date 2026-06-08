@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1779290852964,"sparkVersion":"3.5.3","uid":"OneHotEncoder_32cb10ed3997","paramMap":{"outputCols":["Disease_Vec","County_Vec","Sex_Vec"],"inputCols":["Disease_Index","County_Index","Sex_Index"]},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_32cb10ed3997__output"}}
